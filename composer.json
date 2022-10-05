@@ -3,6 +3,5 @@
     "description": "Learning how to publish a package",
     "require": {
         "php": ">=7.4"
-    },
-    "version": "v0.0.1"
+    }
 }
