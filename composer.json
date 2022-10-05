@@ -3,5 +3,6 @@
     "description": "Learning how to publish a package",
     "require": {
         "php": ">=7.4"
-    }
+    },
+    "license": "MIT"
 }
