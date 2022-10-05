@@ -1,0 +1,7 @@
+{
+    "name": "azmi60/composer-pkg-test",
+    "description": "Learning how to publish a package",
+    "require": {
+        "php": ">=7.4"
+    }
+}
